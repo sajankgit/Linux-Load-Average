@@ -50,7 +50,6 @@ Tasks: 112 total,   2 running,  67 sleeping,   0 stopped,   0 zombie
 KiB Mem :  3772884 total,   313520 free,   317320 used,  3142044 buff/cache
 KiB Swap:        0 total,        0 free,        0 used.  3177308 avail Mem
 PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
-10715 sajan_k+  20   0  144220  11136   9412 R 19.2  0.3   0:01.68 top
  1120 root      20   0  388652  39156   2844 R 10.9  1.0  37:41.31 cmd_daemon
    10 root      20   0       0      0      0 S  0.5  0.0   8:17.18 ksoftirqd/0
     1 root      20   0  225540   5960   3292 S  0.0  0.2   2:30.96 systemd
