@@ -67,4 +67,4 @@ Above is just an ideal case. In real life, it depends on how well your applicati
 
 Load Average is certainly a critical metric that needs to be monitored and alerted. This metrics will tell you how well you server performs which in turn will have effect on your application deployed in the server.
 
-Hope the reading has given you an overall idea on load avera
+Hope the reading has given you an overall idea on load average.
